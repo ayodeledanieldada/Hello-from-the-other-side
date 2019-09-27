@@ -10,5 +10,5 @@ If you would like to hear it, please indicate.
 
 So I'm assuming y'all went with Yes right? Who wouldn't want to hear a good story!
 
-##It all began one evening in January when I woke up with a start. After a rather demanding day, I had nodded off at my Windows laptop and my forehead had just connected with the Start key.
+It all began one evening in January when I woke up with a start. After a rather demanding day, I had nodded off at my Windows laptop and my forehead had just connected with the Start key.
 
