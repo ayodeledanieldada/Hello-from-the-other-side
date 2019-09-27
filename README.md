@@ -1,5 +1,5 @@
 # Hello-from-the-other-side
-My first foray into the amazing world of Git!
+**My first foray into the amazing world of Git!**
 
 As part of the requirements of the course PSYCH 251 (*and also because I've had a really productive day*), I would like to use Git to tell a story!
 
